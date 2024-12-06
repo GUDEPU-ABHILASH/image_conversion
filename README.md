@@ -36,7 +36,7 @@ Before setting up the package, ensure you have the following:
     cd ~/ros2_ws/src
 - Clone the repository from github
     ```bash
-    git clone https://github.com/MarthaSuryaTeja/image_conversion_pkg.git
+    git clone https://github.com/gudepuabhilash/image_conversion_pkg.git
 # 3. Build the Package 
 - Change the path to ros2_ws directory
     ```bash
